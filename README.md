@@ -15,7 +15,7 @@ API REST para gestionar la reserva de canchas deportivas (fútbol, pádel): usua
 
 ## Roadmap
 
-- [ ] Esqueleto del proyecto y primer endpoint
+- [X] Esqueleto del proyecto y primer endpoint
 - [ ] Modelo de datos: usuarios, canchas, reservas
 - [ ] CRUD de canchas (rol administrador)
 - [ ] Reservas con validación de choques de horario
